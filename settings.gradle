@@ -1,0 +1,7 @@
+include ':workmaneger'
+include ':loadermanger'
+include ':looper'
+include ':data_thread'
+include ':thread'
+include ':app'
+rootProject.name = "ru.mirea.shandukowa.practice4"
